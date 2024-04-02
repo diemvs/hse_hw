@@ -10,6 +10,7 @@
 
 ## Deep Learning
 - hw1
+- hw2
 
 ## Data Analys Tools
 - hw1
