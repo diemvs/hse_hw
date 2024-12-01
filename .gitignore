@@ -5,5 +5,7 @@
 *.pyc
 *.pyo
 *.data
+*.jpg
+*.zip
 dl/datasets/*
 *.pth
