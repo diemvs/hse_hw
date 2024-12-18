@@ -14,4 +14,6 @@ gen_models/hw1/cifar/*
 gen_models/hw1/data/*
 gen_models/hw2/CycleGAN-PyTorch/*
 
+**/cache/
+
 .idea/*
