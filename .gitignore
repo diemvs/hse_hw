@@ -15,5 +15,6 @@ gen_models/hw1/data/*
 gen_models/hw2/CycleGAN-PyTorch/*
 
 **/cache/
+**/.venv
 
 .idea/*
