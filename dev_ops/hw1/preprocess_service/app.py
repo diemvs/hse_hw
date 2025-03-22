@@ -6,6 +6,10 @@ import io
 
 app = FastAPI()
 
+from prometheus_fastapi_instrumentator import Instrumentator
+
+Instrumentator().instrument(app).expose(app)
+
 def preprocess_image(image_bytes):
     image = Image.open(io.BytesIO(image_bytes)).convert("L")
     image = image.resize((28, 28))
