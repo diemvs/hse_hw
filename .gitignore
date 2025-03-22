@@ -21,3 +21,4 @@ gen_models/hw2/CycleGAN-PyTorch/*
 **/.venv
 
 .idea/*
+gen_models/hw2/CycleGAN-PyTorch/
