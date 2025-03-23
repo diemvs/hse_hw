@@ -23,3 +23,7 @@ gen_models/hw2/CycleGAN-PyTorch/*
 .idea/*
 gen_models/hw2/CycleGAN-PyTorch/
 /cv/hw2/data
+/time_series/hw2/catboost_info
+/nlp/hw3/bert_imdb
+/gis/lab6/assets
+*.tif
