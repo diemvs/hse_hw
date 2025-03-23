@@ -22,3 +22,4 @@ gen_models/hw2/CycleGAN-PyTorch/*
 
 .idea/*
 gen_models/hw2/CycleGAN-PyTorch/
+/cv/hw2/data
