@@ -27,3 +27,4 @@ gen_models/hw2/CycleGAN-PyTorch/
 /nlp/hw3/bert_imdb
 /gis/lab6/assets
 *.tif
+.qodo
